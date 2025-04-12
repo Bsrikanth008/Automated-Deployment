@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "A simple node.js app to demonstrate CI/CD pipeline using  Github Actions",
+  "main": "index.js",
+  "scripts": {
+ 	"start": "node app.js",
+	"test": "echo \"no tests yet\" && exit 0"
+  },
+  "keywords": [],
+  "author": "srikanthberla",
+  "license": "MIT"
+}
