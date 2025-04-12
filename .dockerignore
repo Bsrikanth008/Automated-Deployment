@@ -1,0 +1,31 @@
+# Node dependencies
+node_modules
+npm-debug.log
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# GitHub Actions
+.github/
+
+# Logs
+*.log
+
+# Environment files (if any)
+.env
+
+# OS/IDE specific
+.DS_Store
+.vscode/
+*.swp
+
+# RHEL9 system files
+*~              # Backup files
+*.bak           # Backup files
+*.swp           # Swap files
+*.swo           # Swap files
